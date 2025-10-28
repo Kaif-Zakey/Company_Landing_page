@@ -319,7 +319,7 @@ PORT=5002
 NODE_ENV=development
 
 # MongoDB Configuration
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/company-cms
+MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/YOUR_DATABASE
 
 # CORS Configuration
 FRONTEND_URL=http://localhost:5173
@@ -951,7 +951,7 @@ Update Tailwind classes in components:
 
 ```bash
 # Test MongoDB Atlas connection
-mongosh "mongodb+srv://username:password@cluster.mongodb.net/database-name"
+mongosh "mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/YOUR_DATABASE"
 
 # Check backend health
 curl http://localhost:5002/health
