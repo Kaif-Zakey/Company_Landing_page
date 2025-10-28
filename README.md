@@ -319,10 +319,10 @@ PORT=5002
 NODE_ENV=development
 
 # MongoDB Configuration
-MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/YOUR_DATABASE
+MONGODB_URI=
 
 # CORS Configuration
-FRONTEND_URL=http://localhost:5173
+FRONTEND_URL=
 ```
 
 #### Frontend Configuration
