@@ -499,9 +499,8 @@ Currently no known issues. If you find any bugs, please [open an issue](https://
 
 ## 📞 Support & Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub Issues**: [Create an Issue](https://github.com/yourusername/CompanyCMS/issues)
+- **Email**: [kaifzakey22@gmail.com](mailto:kaifzakey22@gmail.com)
+- **LinkedIn**: [kaif-Zaki](https://www.linkedin.com/in/kaif-zaki?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## ⭐ Show Your Support
 
